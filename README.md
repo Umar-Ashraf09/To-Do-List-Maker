@@ -15,7 +15,7 @@ A simple and stylish To-Do List Maker web application built with HTML, CSS, and 
 
 ## Preview
 
-![To Do List Maker](https://github.com/Umar-Ashraf09/To-Do-List-Maker/assets/92431008/1ca8c4bd-3a28-40e4-af7c-05122824c60d)
+![To Do List Maker](https://github.com/Umar-Ashraf09/To-Do-List-Maker/assets/92431008/b7f96b92-eed7-408a-b252-8719b93d7ca0)
 
 
 ## Features
